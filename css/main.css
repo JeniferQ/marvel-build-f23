@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header {
+    background-color: tomato;
+}
+
+#main-logo {
+    width: 300px;
+    display: block;
+    margin: 0 auto; /* margin top and bottom, 0. Margin left and right auto */
+}
